@@ -1,11 +1,3 @@
-//
-//  dlist.h
-//  linked_list
-//
-//  Created by William McCarthy on 084//20.
-//  Copyright © 2020 William McCarthy. All rights reserved.
-//
-
 #ifndef dlist_h
 #define dlist_h
 
