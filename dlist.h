@@ -153,15 +153,6 @@ void dlist_test() {
   printf("      All Assertions passed!...\n");
   free(list);
   printf("//===================== END TESTING DLIST =========================\n\n");
-  // dlist* list = dlist_create();
-  // for(int i = 10;i<=50;i+=10){
-  //   dlist_pushfront(list,i);
-  // }
-  // dlist_print(list," ");
-  // printf("done printing");
-  // dlist_clear(list);
-  // dlist_print(list," ");
-  // printf("done\n");
 }
 
 #endif /* dlist_h */
